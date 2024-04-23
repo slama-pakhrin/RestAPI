@@ -1,0 +1,10 @@
+package.json : npm init -y
+-> Provides dependencies and configurations details
+
+installing typescript : npm install -D typescript
+
+npx is basically used when we dont want to install the dependencies globally and to use uptodate version of ts-node 
+so that the version conflict be managed
+
+sha-> secure hash algorithm which is used to securely hash the inpun into the given bit size and digest it to never retreive the original value?
+the salt in authentication differs from user to user. so each time a hash of a pass is created it is diff for the same password too
